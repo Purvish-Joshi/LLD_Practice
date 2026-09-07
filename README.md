@@ -9,16 +9,22 @@ The repository will be updated gradually as I implement and explore different de
  1.Strategy Pattern
 
 🎯 Goal
+
 The goal of this repository is to:
+
 Understand LLD and design patterns through code.
+
 Practice writing clean and maintainable C++.
+
 Build a reference for LLD interviews and preparation.
 
 🛠️ Tech Stack
+
 Language: C++
+
 Standard: C++17 or later
 
 📌 Note
-This is a learning repository and will evolve over time as more patterns and examples are added.libraries.
+This is a learning repository and will evolve over time as more patterns and examples are added.
 
 Feel free to explore, modify, and improve the implementations.
