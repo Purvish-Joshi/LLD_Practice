@@ -5,6 +5,7 @@ A collection of Low-Level Design (LLD) patterns and implementations in C++.
 The repository will be updated gradually as I implement and explore different design patterns.
 
 📂 Patterns
+
  1.Strategy Pattern
 
 🎯 Goal
