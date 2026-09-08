@@ -7,6 +7,7 @@ The repository will be updated gradually as I implement and explore different de
 📂 Patterns
 
  1.Strategy Pattern
+ 2.Factory Pattern
 
 🎯 Goal
 
