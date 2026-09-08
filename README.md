@@ -7,6 +7,7 @@ The repository will be updated gradually as I implement and explore different de
 📂 Patterns
 
  1.Strategy Pattern
+
  2.Factory Pattern
 
 🎯 Goal
@@ -26,6 +27,7 @@ Language: C++
 Standard: C++17 or later
 
 📌 Note
+
 This is a learning repository and will evolve over time as more patterns and examples are added.
 
 Feel free to explore, modify, and improve the implementations.
