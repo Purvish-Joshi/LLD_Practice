@@ -10,6 +10,8 @@ The repository will be updated gradually as I implement and explore different de
 
  2.Factory Pattern
 
+ 3.Observer Pattern
+
 🎯 Goal
 
 The goal of this repository is to:
