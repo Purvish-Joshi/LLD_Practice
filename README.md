@@ -14,6 +14,8 @@ The repository will be updated gradually as I implement and explore different de
 
 4.Singleton Pattern
 
+5.Decorator Pattern
+
 🎯 Goal
 
 The goal of this repository is to:
