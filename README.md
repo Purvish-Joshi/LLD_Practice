@@ -6,11 +6,13 @@ The repository will be updated gradually as I implement and explore different de
 
 📂 Patterns
 
- 1.Strategy Pattern
+1.Strategy Pattern
 
- 2.Factory Pattern
+2.Factory Pattern
 
- 3.Observer Pattern
+3.Observer Pattern
+
+4.Singleton Pattern
 
 🎯 Goal
 
