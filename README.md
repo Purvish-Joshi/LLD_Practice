@@ -18,6 +18,8 @@ The repository will be updated gradually as I implement and explore different de
 
 6.Adapter Pattern
 
+7.Facade Pattern
+
 🎯 Goal
 
 The goal of this repository is to:
