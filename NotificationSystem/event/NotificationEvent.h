@@ -41,10 +41,6 @@ public:
 
     void setNotification(INotification *notification)
     {
-        if (currentNotification != nullptr)
-        {
-            delete currentNotification;
-        }
         currentNotification = notification;
         message = notification->getContent();
         notify(message);

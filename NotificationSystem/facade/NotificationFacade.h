@@ -21,18 +21,20 @@ private:
 public:
     NotificationFacade()
     {
-        notificationService = NotificationService::getInstance();
         event = new NotificationEvent();
         engine = new NotificationEngine();
         factory = new StrategyFactory();
+
+        event->add(engine);
+
+        notificationService = NotificationService::getInstance();
+        notificationService->setEvent(event);
     }
 
     void createNotification(
         INotification *notification,
         const vector<Preferences> &preferences)
     {
-        event->add(engine);
-
         for (const auto &preference : preferences)
         {
             auto strategy = factory->createStrategy(preference);
